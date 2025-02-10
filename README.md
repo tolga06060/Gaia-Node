@@ -98,7 +98,7 @@ python3 gaiabot.py
 
 > Bu EXP'leri node'un çalışması için kredi olarak kullanacağız.
 
-> [Buradan](https://gaianet.ai/reward?invite_code=RiFcz1) EXP'leri toplayabilirsiniz.
+> [Buradan](https://gaianet.ai/reward?invite_code=R3C1M8) EXP'leri toplayabilirsiniz.
 
 #
 
